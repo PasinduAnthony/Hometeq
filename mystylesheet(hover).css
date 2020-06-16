@@ -1,0 +1,11 @@
+#hover1{
+    background-color:yellow;
+	padding:20px;
+	display:none;
+}
+span:hover+#hover1{
+	display:block;
+}
+td:hover+#hover1{
+    display: block;
+}
