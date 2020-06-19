@@ -1,7 +1,10 @@
 # Hometeq
-E-commerce based website. user can select items user can view items, user can add to the basket, user can edit the basket, admins can add items to the database.
+Landing page with search function
 ![](snapshots/1.jpg)
 <br>
+<br>
+Once we click an item it will show mode details of the item , price & quantity<br>
+from this page user can add the item to the basket
 ![](snapshots/2.jpg)
 <br>
 ![](snapshots/3.jpg)
